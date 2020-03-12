@@ -1,3 +1,3 @@
 ProjectFILES
-art
+ProjectFILES/art
 builds
