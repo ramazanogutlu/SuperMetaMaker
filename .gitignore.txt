@@ -1,5 +1,2 @@
 ProjectFILES
-ProjectFILES/art
-ProjectFILES/Super Meta Maker.001
-ProjectFILES/Super Meta Maker.mfa
 builds
