@@ -1,2 +1,2 @@
-ProjectFILES
-builds
+.ProjectFILES
+.builds
